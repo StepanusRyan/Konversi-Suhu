@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/celcius"
+        android:title="Celcius"
+        android:icon="@drawable/ic_c">
+    </item>
+
+    <item
+        android:id="@+id/fahrenheit"
+        android:title="Fahrenheit"
+        android:icon="@drawable/ic_f"
+        >
+    </item>
+
+    <item
+        android:id="@+id/kelvin"
+        android:title="Kelvin"
+        android:icon="@drawable/ic_k"
+        >
+    </item>
+    <item
+        android:id="@+id/reamur"
+        android:title="Reamur"
+        android:icon="@drawable/ic_r"
+        >
+    </item>
+
+</menu>
